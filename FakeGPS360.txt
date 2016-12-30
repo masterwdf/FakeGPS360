@@ -1,1 +1,1 @@
-2.https://github.com/masterwdf/FakeGPS360/raw/master/FakeGPS360.apk
+2|https://github.com/masterwdf/FakeGPS360/raw/master/FakeGPS360.apk
